@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact relation of the taking of Newhassell by storm. Together with the defeat of the Serasquier Bassa before Grann, by the Duke of Lorrain, as it was brought from Vienna by the Sieur Martell to the governour of the Spanish Netherlands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06216</idno>
+            <idno type="STC">Wing T2464</idno>
+            <idno type="STC">ESTC R185493</idno>
+            <idno type="EEBO-CITATION">53981587</idno>
+            <idno type="OCLC">ocm 53981587</idno>
+            <idno type="VID">180397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180397)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact relation of the taking of Newhassell by storm. Together with the defeat of the Serasquier Bassa before Grann, by the Duke of Lorrain, as it was brought from Vienna by the Sieur Martell to the governour of the Spanish Netherlands.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  V, --  Duke of Lorraine, 1643-1690.</term>
+               <term>Martell, --  sieur.</term>
+               <term>Austro-Turkish War, 1683-1699 --  Early works to 1800.</term>
+               <term>Nové Zámky (Slovakia) --  History --  Siege, 1685 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:180397:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>A True and Exact RELATION Of the Taking of Newhaſſell by Storm. TOGETHER With the Defeat of the <hi>seraſquier Baſsa</hi> before <hi>Grann,</hi> by the Duke of <hi>Lorrain,</hi> as it was brought from <hi>Vienna</hi> by the <hi>Sieur Martell</hi> to the Governour of the Spaniſh Netherlands.</head>
+            <p>ALL being well put in order by the Care and Conduct of the General Count <hi>Caprara,</hi> and the Duke of <hi>Crey,</hi> to whom the the Duke of <hi>Lorrain</hi> had left the Command to continue the Seige of <hi>Newhaſſell;</hi> they began on the 19th. to Storm about Eight in the Morning; and in leſs then an hour carried the place by main Force, and cut all the Garri<g ref="char:EOLhyphen"/>ſon in pieces, except a few Principal Officers, to whom Quarter was given, after the heat of their Fury was over; And amidſt this Slaughter, four hundred being retired to a <hi>Baſtion,</hi> who were warmly plaid on by our Cannon, ſlid down the Ditches to eſcape; whereof many were drowned, and the reſt cut off by our Horſe, who came not up to the Storm. This great Succeſs was immediatly carried by General Count <hi>Sherffenberg</hi> to his Imperial Majeſty at <hi>Vienna,</hi> whither he parted at Nine in the Morning, and arrived there at Nine on the 20th at Night: This General Commanded the Right, and entred firſt the Town with his Sword in his hand, and the Sir <hi>Rinnel</hi> General of the Battel of the <hi>Bavarian</hi> Troops, who commanded the Left, entred likewiſe about the ſame time, while the <hi>Seiur du Mont,</hi> General of the Battel of the <hi>Lunenburgers</hi> commanded the Reſerve; there were but two Lieutenants of the Imperialiſts Killed in all the Action
+<pb n="2" facs="tcp:180397:1"/>
+               <!-- PDF PAGE 20 -->
+and about 30 private Souldiers, with a few of the Auxi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iaries. The Beſieged were ſtill about 1200 behind the Breaches on the time of the Aſſault; they found in the Magazines Forty Thouſ<g ref="char:EOLhyphen"/>and weight of Powder, a great quantity of Ammunition, and Pro<g ref="char:EOLhyphen"/>viſion both for War and Mouth, Eighty Pieces of Braſs Cannon, which had been all diſmounted by us, except two, all the Riches taken, a great number of Chriſtian Slaves freed. Thus this place after having groaned 22 years under their Tyranny, is redeemed to the Power of his Imperial Majeſty.</p>
+            <div type="part">
+               <head>Bruſsels 19. 1685.</head>
+               <p>Having given you a Relation of the wonderful taking of <hi>New<g ref="char:EOLhyphen"/>haſſell,</hi> with ſo inconſiderable a loſs on the Chriſtian ſide, it will be no leſs ſurprizing News to tell you that Prince <hi>Charles</hi> of <hi>Lorrain,</hi> the Duke of <hi>Bavaria,</hi> Prince <hi>Waldeck,</hi> and other General Officers have ſignalized themſelves againſt the <hi>Ottoman</hi> Army, under the Command of the <hi>Seraſquier Baſſa,</hi> who had beſieged the Town of <hi>Grann,</hi> on purpoſe to make a diverſion, in hopes to releive <hi>Newhaſsel,</hi> but His Highneſſ the Duke of <hi>Lorrain</hi> finding the Enemy, advantagiouſly poſted in a Morras, made a ſhow, as if he deſigned to March towards the Bridges of <hi>Raab,</hi> and as a forerun<g ref="char:EOLhyphen"/>ner of good ſucceſs, God Almighty ſo ordered it, that a Fogg roſe on the ſudden, and prevented the Enemy from diſcerning of his March, ſo that they removed from their Camp to follow His Highneſs, who immediately faced about, and Fought them in the open Field, killing 6000 <hi>Janizaries</hi> upon the place, taking all their Cannon, Ammunition, and Proviſions, and a great number of Priſoners. This Account is brought to the Governor of <hi>Flanders,</hi> by <hi>Mounſieur Martel,</hi> who was ſent by Count <hi>Cherſenburg,</hi> from <hi>Vienna,</hi> to communicate this Advice by word of Mouth to the Go<g ref="char:EOLhyphen"/>vernor of <hi>Flanders,</hi> the Duke of <hi>Lorrain</hi> being then in purſuit of of the Reſt of the <hi>Ottoman</hi> Army.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His Moſt Sacred <hi>Majeſty. Anno Dom. 1685.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
